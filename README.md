@@ -1,8 +1,8 @@
-# CodeAlpha Unemployment Analysis
+# Unemployment Analysis
 
 ## Project Overview
 
-This project is part of the CodeAlpha Data Science Internship.
+This project is part of the  Data Science .
 
 The main aim of this project is to analyze unemployment data in India and understand how unemployment changed over time. The project also looks at differences between regions and the impact of the COVID-19 period on unemployment.
 
